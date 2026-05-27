@@ -1,4 +1,3 @@
-/* Adds two fractions */
 #include <stdio.h>
     int main(void) {
     int numl, denoml, num2, denom2, result_num, result_denom;
